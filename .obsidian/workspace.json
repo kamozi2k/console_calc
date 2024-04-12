@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "6ed60085ed0036ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "261c483e0f84348b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea9270c1a63a12fa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "287ebc20800b7372",
+    "type": "split",
+    "children": [
+      {
+        "id": "9abaf59429fb2337",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb94f1c669df9bcc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "afa6d8979e035a91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ade7be8ceb984a50",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "right": {
+    "id": "97b665c788bf7cec",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a520c0f3729a2b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4008e3f9d57e85ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ea893c4d021ec6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed0d4fc715c7e9ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6380e5f6631ca96c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "ea9270c1a63a12fa",
+  "lastOpenFiles": [
+    "README(en).md",
+    "README(ru).md",
+    "cmake-build-debug/CMakeFiles/console_calc.dir/calc.cpp.obj.d",
+    "ссылка.md",
+    "Без названия.md",
+    "calc.cpp~"
+  ]
+}

@@ -1,0 +1,3 @@
+C:/Users/ivanb/OneDrive/Документы/GitHub/console_calc/cmake-build-debug/CMakeFiles/console_calc.dir
+C:/Users/ivanb/OneDrive/Документы/GitHub/console_calc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ivanb/OneDrive/Документы/GitHub/console_calc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
